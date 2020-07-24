@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="ec">
+    <ec-canvas id="chart" lazyLoad="{{ true }}"></ec-canvas>
+  </view>
+</view>
